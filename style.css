@@ -1,0 +1,9 @@
+/* Smooth Scroll */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Add animation transition to skill bars */
+.progress-bar {
+  transition: width 2s ease;
+}
